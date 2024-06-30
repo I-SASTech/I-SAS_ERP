@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+
+    <title id="ApplicationName"></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="ERP FOR SMALL & MEDIUM ENTERPRISE Handle All your Needs & Automate Business Process" name="description" />
+    <meta content="SmartDigital (Pvt) Ltd." name="author" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- App favicon -->
+    <link rel="apple-touch-icon" sizes="76x76" href="favicon.png">
+    <link rel="shortcut icon" href="favicon.png">
+
+    <!-- jvectormap -->
+    <link href="/plugins/jvectormap/jquery-jvectormap-2.0.2.css" rel="stylesheet">
+    <!--Form Wizard-->
+    <link rel="stylesheet" href="/plugins/jquery-steps/jquery.steps.css">
+    <link rel="preload" href="/assets/js/app.js" as="script">
+    <!-- App css -->
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/metisMenu.min.css" rel="stylesheet" type="text/css" />
+    <!--<link href="/plugins/daterangepicker/daterangepicker.css" rel="stylesheet" type="text/css" />-->
+    <link href="/assets/css/app.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" href="https://unpkg.com/vue-multiselect@2.1.6/dist/vue-multiselect.min.css">
+    <!-- Import style -->
+    <link rel="stylesheet" href="//unpkg.com/element-plus/dist/index.css" />
+    <!-- Import Vue 3 -->
+    <script src="//unpkg.com/vue@3"></script>
+    <!-- Import component library -->
+    <script src="//unpkg.com/element-plus"></script>
+    <!--<link href="/assets/css/app-rtl.css" rel="stylesheet" type="text/css" />-->
+    <!-- jQuery  -->
+    <script src="/assets/js/jquery.min.js"></script>
+    <script defer src="/assets/js/bootstrap.bundle.min.js"></script>
+    <script defer src="/assets/js/metismenu.min.js"></script>
+    <script defer src="/assets/js/waves.js"></script>
+    <script defer src="/assets/js/feather.min.js"></script>
+    <script defer src="/assets/js/simplebar.min.js"></script>
+    <script defer src="/plugins/jquery-steps/jquery.steps.min.js"></script>
+    <script defer src="/assets/pages/jquery.form-wizard.init.js"></script>
+
+    <!-- App js -->
+
+    <script defer src="/assets/js/app.js"></script>
+    <script>
+        var local = (localStorage.getItem("locales"));
+        if (local == "ar") {
+            var head = document.getElementsByTagName('head')[0];
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = '/assets/css/app-rtl.min.css';
+            link.media = 'all';
+            head.appendChild(link);
+        }
+    </script>
+</head>
+<body id="app">
+    <noscript>
+        <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    
+    <!-- built files will be auto injected -->
+</body>
+</html>

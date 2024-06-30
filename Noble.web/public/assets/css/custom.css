@@ -1,0 +1,235 @@
+/*multiselect css*/
+.multiselect, .multiselect__input, .multiselect__single {
+    font-size: 13px !important;
+}
+
+.multiselect__tags {
+    min-height: 35px !important;
+    font-size: 13px !important;
+    padding: 4px 40px 0 8px !important;
+}
+
+.multiselect__select {
+    position: absolute;
+    width: 40px;
+    height: 34px !important;
+    right: 1px;
+    top: 1px;
+    padding: 0px 8px 5px 0px !important;
+    text-align: center;
+    transition: transform .2s ease;
+}
+
+.multiselect__placeholder {
+    margin-bottom: 6px !important;
+}
+
+.multiselect {
+    min-height: 35px !important;
+}
+
+.multiselect__input, .multiselect__single {
+    padding: 2px 0 0 0 !important;
+    margin-bottom: 5px !important;
+}
+
+.multiselect__option--highlight {
+    background: #f3f3f3 !important;
+    color: black !important;
+}
+
+/*multiselect css end*/
+
+/*Date Picker css*/
+.el-input {
+    font-size: 13px !important;
+}
+
+.el-input__inner {
+    height: 36px !important;
+}
+/*Date Picker css End*/
+
+/*Start Screen Img start*/
+.start_screen_img {
+    height: 29rem;
+    width: 34rem;
+}
+
+    .start_screen_img img {
+        width: 100%;
+        object-fit: contain;
+        max-width: 100%;
+        object-position: top;
+        height: auto;
+        max-height: 500px;
+        display: block;
+    }
+/*Start Screen Img End*/
+.tick-mark {
+    color: #1452D7;
+}
+/*Push Record Progress Bar start*/
+.progress {
+    border-radius: 25px !important;
+    height: 20px;
+}
+.higlight {
+    background-color: red;
+}
+/*Push Record Progress Bar End*/
+
+/*footer Css*/
+.footer {
+    box-shadow: 0 0 6px rgb(0 0 0 / 20%);
+    background: #fff;
+    position: fixed;
+    z-index: 9999;
+    padding: 5px 8px 5px 8px;
+    font-size: 11px;
+    height: 25px;
+}
+
+.invoice-btn-fixed-bottom {
+    box-shadow: 0 -4px 5px -3px rgb(0 0 0 / 10%);
+    background: #fff;
+    position: fixed;
+    z-index: 3;
+    bottom: 25px;
+    padding: 15px;
+    /*    width: calc(100% - 200px);*/
+    border-top: 1px solid #eee;
+}
+
+.bg_color {
+    border: 1px dashed rgb(23, 97, 253);
+}
+
+.touch-invoice-btn-fixed-bottom {
+    box-shadow: 0 -4px 5px -3px rgb(0 0 0 / 10%);
+    background: #fff;
+    position: fixed;
+    z-index: 3;
+    bottom: 0;
+    padding: 15px;
+    /*    width: calc(100% - 200px);*/
+    border-top: 1px solid #eee;
+    width: 100%;
+}
+
+
+@media (min-width: 768px) {
+    .cpe {
+        padding-right: 3rem !important;
+    }
+    .cps {
+        padding-left: 3rem !important;
+    }
+    .cbe {
+        border-right: 1px solid rgb(238, 238, 238);
+    }
+    .cbs {
+        border-right: 1px solid rgb(238, 238, 238);
+    }
+}
+
+
+.touch-topbar-nav li{
+    border-left: 1px solid #f1f5fa;
+    
+}
+.VueCarousel-slide {
+    max-width: 25%;
+    margin-right: 10px;
+}
+.ellipse {
+    white-space: nowrap;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.two-lines {
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+}*/
+
+#app::-webkit-scrollbar {
+    width: 4px;
+    border-radius: 6.51724px;
+}
+/* Track */
+#app::-webkit-scrollbar-track {
+    background: #F1F1F1;
+}
+
+/* Handle */
+#app::-webkit-scrollbar-thumb {
+    background: #afb7d1;
+    border-radius: 6.51724px;
+    height: 20px;
+}
+    /* Handle on hover */
+    #app::-webkit-scrollbar-thumb:hover {
+        background: #afb7d1;
+    }
+
+#style-2::-webkit-scrollbar {
+    width: 4px;
+    border-radius: 6.51724px;
+}
+/* Track */
+#style-2::-webkit-scrollbar-track {
+    background: #F1F1F1;
+}
+
+/* Handle */
+#style-2::-webkit-scrollbar-thumb {
+    background: #afb7d1;
+    border-radius: 6.51724px;
+    height: 100px;
+}
+    /* Handle on hover */
+    #style-2::-webkit-scrollbar-thumb:hover {
+        background: #afb7d1;
+    }
+#style-3::-webkit-scrollbar {
+    width: 4px;
+    border-radius: 6.51724px;
+}
+/* Track */
+#style-3::-webkit-scrollbar-track {
+    background: #F1F1F1;
+}
+#style-3::-webkit-scrollbar-thumb {
+    background: #afb7d1;
+    border-radius: 6.51724px;
+    height: 100px;
+}
+#style-3::-webkit-scrollbar-thumb:hover {
+    background: #afb7d1;
+}
+
+.el-picker-panel__body-wrapper {
+    direction: ltr !important;
+}
+.el-picker-panel {
+    z-index: 999999 !important;
+}
+
+.wizard > .content > .body input{
+    border: none !important;
+}
+.wizard > .content > .body .border_input{
+    border: 1px solid #e3ebf6 !important;
+}
+
+.wizard > .content{
+ overflow:visible;   
+}
+
+.wizard, .tabcontrol {
+    overflow:visible; 
+}

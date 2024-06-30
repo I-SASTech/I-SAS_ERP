@@ -1,0 +1,7 @@
+{
+  "ServerIP": "https://localhost:44318/api",
+  "ClientIP": "http://localhost:805",
+  "PermissionIP": "http://91.205.173.234:8090/api",
+  "ReportServer": "http://localhost:64319//Reports/",
+  "SystemType": "Local"
+}

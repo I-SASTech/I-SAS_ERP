@@ -1,0 +1,207 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <LangVersion>latest</LangVersion>
+    <UserSecretsId>f3d0d0d3-344f-4586-af01-a71cb9ccd9f9</UserSecretsId>
+    <Platforms>AnyCPU;ARM32</Platforms>
+   
+
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM32'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM32'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="wwwroot\Template\Category.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\assets\css\component.css.map" />
+    <None Include="wwwroot\assets\css\paper-dashboard.css.map" />
+    <None Include="wwwroot\assets\demo\demo.js" />
+    <None Include="wwwroot\assets\fonts\nucleo-icons.woff2" />
+    <None Include="wwwroot\assets\js\core\bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\core\jquery.min.js" />
+    <None Include="wwwroot\assets\js\core\popper.min.js" />
+    <None Include="wwwroot\assets\js\paper-dashboard.js" />
+    <None Include="wwwroot\assets\js\paper-dashboard.js.map" />
+    <None Include="wwwroot\assets\js\paper-dashboard.min.js" />
+    <None Include="wwwroot\assets\js\plugins\bootstrap-datetimepicker.js" />
+    <None Include="wwwroot\assets\js\plugins\bootstrap-notify.js" />
+    <None Include="wwwroot\assets\js\plugins\bootstrap-selectpicker.js" />
+    <None Include="wwwroot\assets\js\plugins\bootstrap-switch.js" />
+    <None Include="wwwroot\assets\js\plugins\bootstrap-tagsinput.js" />
+    <None Include="wwwroot\assets\js\plugins\chartjs.min.js" />
+    <None Include="wwwroot\assets\js\plugins\fullcalendar.min.js" />
+    <None Include="wwwroot\assets\js\plugins\jasny-bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\plugins\jquery-jvectormap.js" />
+    <None Include="wwwroot\assets\js\plugins\jquery.bootstrap-wizard.js" />
+    <None Include="wwwroot\assets\js\plugins\jquery.dataTables.min.js" />
+    <None Include="wwwroot\assets\js\plugins\jquery.validate.min.js" />
+    <None Include="wwwroot\assets\js\plugins\moment.min.js" />
+    <None Include="wwwroot\assets\js\plugins\nouislider.min.js" />
+    <None Include="wwwroot\assets\js\plugins\perfect-scrollbar.jquery.min.js" />
+    <None Include="wwwroot\assets\js\plugins\sweetalert2.min.js" />
+    <None Include="wwwroot\assets\scss\paper-dashboard.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-background.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-chart.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-collapse.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-contributions.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-info-area.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-lock.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-map.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-plain.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-pricing.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-profile.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-signup.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-stats-mini.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-stats.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-subcategories.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-tasks.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-testimonials.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\cards\_card-user.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_badges.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_buttons.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_cards.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_chartist.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_dropdown.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_inputs.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_modals.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_page-header.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_popovers.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_social-buttons.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_tags.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_transparency.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_vendor-prefixes-extend.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_vendor-prefixes.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\mixins\_wizard.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-animate-bootstrap-notify.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-bootstrap-select.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-bootstrap-switch.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-bootstrap-table.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-card-wizard.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-datatables.net.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-datetimepicker.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-fullcalendar.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-jasny-fileupload.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-jquery.jvectormap.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-nouislider.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-perfect-scrollbar.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-sweetalert2.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\plugins\_plugin-tagsinput.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_alerts.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_animated-buttons.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_badges.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_buttons.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_cards.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_carousel.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_checkboxes-radio.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_dropdown.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_example-pages.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_fixed-plugin.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_footers.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_images.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_info-areas.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_inputs.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_media-queries.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_misc-extend.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_misc.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_mixins.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_modals.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_navbar.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_nucleo-outline.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_page-header.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_pagination.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_pills.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_popups.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_progress.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_responsive.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_sections.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_sidebar-and-main-panel.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_social-buttons.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_tables.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_tabs.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_timeline.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_typography.scss" />
+    <None Include="wwwroot\assets\scss\paper-dashboard\_variables.scss" />
+    <None Include="wwwroot\Template\Template.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BarcodeLib" Version="2.4.0" />
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+    <PackageReference Include="EPPlus" Version="6.0.3" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
+    <PackageReference Include="iTextSharp.NetCore" Version="5.5.13.1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+    <PackageReference Include="Microsoft.AspNet.Identity.Core" Version="2.2.3" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.9" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.2.3" />
+    <PackageReference Include="Microsoft.Owin.Security.Cookies" Version="4.2.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NLog" Version="5.2.6" />
+    <PackageReference Include="NLog.Web" Version="4.7.0" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.5" />
+    <PackageReference Include="QRCoder-ImageSharp" Version="0.9.0" />
+    <PackageReference Include="Rotativa.AspNetCore" Version="1.2.0" />
+    <PackageReference Include="Spire.XLS" Version="13.3.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Focus.Business\Focus.Business.csproj" />
+    <ProjectReference Include="..\Focus.External\Focus.External.csproj" />
+    <ProjectReference Include="..\Focus.Persistence\Focus.Persistence.csproj" />
+    <ProjectReference Include="..\ScheduledTasks\ScheduledTasks.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Backup\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\Reports\AccountFinanceReport\BakanceSheetReport\BalanceSheet.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BalanceSheet.xsd</DependentUpon>
+    </Content>
+    <Content Update="wwwroot\Reports\AccountFinanceReport\BakanceSheetReport\BalanceSheet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BalanceSheet.Designer.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

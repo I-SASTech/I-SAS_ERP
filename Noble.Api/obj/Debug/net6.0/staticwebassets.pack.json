@@ -1,0 +1,1513 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\013addf8-b174-46a2-a3f6-0e231c5b8aa3.png",
+      "PackagePath": "staticwebassets\\Attachment\\013addf8-b174-46a2-a3f6-0e231c5b8aa3.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\02b2bb0f-2b21-4255-92e2-7828b5c741ab.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\02b2bb0f-2b21-4255-92e2-7828b5c741ab.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\0338cbc9-314d-4afe-a77c-f0405e6296bf.png",
+      "PackagePath": "staticwebassets\\Attachment\\0338cbc9-314d-4afe-a77c-f0405e6296bf.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\07bd27c6-07da-408d-ac1d-270da0033758.png",
+      "PackagePath": "staticwebassets\\Attachment\\07bd27c6-07da-408d-ac1d-270da0033758.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\0a4d215e-c02c-4e6f-95b6-e482ca59aee0.png",
+      "PackagePath": "staticwebassets\\Attachment\\0a4d215e-c02c-4e6f-95b6-e482ca59aee0.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\172dbcad-4f9f-480c-b690-53f3858d20f1.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\172dbcad-4f9f-480c-b690-53f3858d20f1.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\1c5554c4-4624-43b4-9d21-3790661703e5.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\1c5554c4-4624-43b4-9d21-3790661703e5.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\2f2a097a-563a-479c-941e-15a0e16d896e.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\2f2a097a-563a-479c-941e-15a0e16d896e.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\32f3b9c2-8da6-45a3-bd5f-6d5173365a7b.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\32f3b9c2-8da6-45a3-bd5f-6d5173365a7b.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\34a55afb-9e34-4ad6-a90a-467f6f1d042d.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\34a55afb-9e34-4ad6-a90a-467f6f1d042d.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\37dfffe2-7548-4d02-b36c-ca7d3e882237.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\37dfffe2-7548-4d02-b36c-ca7d3e882237.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\3a553000-d6fa-48c9-92d6-840ec84fdd08.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\3a553000-d6fa-48c9-92d6-840ec84fdd08.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\3b82a937-9ad0-4449-932c-145ac36af23b.png",
+      "PackagePath": "staticwebassets\\Attachment\\3b82a937-9ad0-4449-932c-145ac36af23b.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\47552bd6-4ad8-4538-a579-81ed89efb5e9.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\47552bd6-4ad8-4538-a579-81ed89efb5e9.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\4b4d6006-fff6-48b9-916a-bc10639a8f70.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\4b4d6006-fff6-48b9-916a-bc10639a8f70.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\556032ae-0364-4946-9f7c-96225f7061b8.png",
+      "PackagePath": "staticwebassets\\Attachment\\556032ae-0364-4946-9f7c-96225f7061b8.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\5e8d258a-b7e7-48c7-81d5-8d4d396b962f.png",
+      "PackagePath": "staticwebassets\\Attachment\\5e8d258a-b7e7-48c7-81d5-8d4d396b962f.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\5fe6467e-ee4b-4964-b32d-87edf7c921c8.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\5fe6467e-ee4b-4964-b32d-87edf7c921c8.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\6038eda9-0fcf-4860-83d2-f5a6a5ba5b50.png",
+      "PackagePath": "staticwebassets\\Attachment\\6038eda9-0fcf-4860-83d2-f5a6a5ba5b50.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\62ea102b-8ed2-49b7-b853-c85959b787ac.png",
+      "PackagePath": "staticwebassets\\Attachment\\62ea102b-8ed2-49b7-b853-c85959b787ac.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\6939202c-2202-42e3-ab99-08d8b7b22de6.png",
+      "PackagePath": "staticwebassets\\Attachment\\6939202c-2202-42e3-ab99-08d8b7b22de6.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\7064b7bf-3154-4250-bac4-0d9bbfb4aff6.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\7064b7bf-3154-4250-bac4-0d9bbfb4aff6.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\717e260b-b427-4bee-8de0-470c8f878f05.png",
+      "PackagePath": "staticwebassets\\Attachment\\717e260b-b427-4bee-8de0-470c8f878f05.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\751bfe21-a141-433a-802e-739c48672939.png",
+      "PackagePath": "staticwebassets\\Attachment\\751bfe21-a141-433a-802e-739c48672939.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\765b76b1-edad-4ecd-a179-d6c6c6087481.png",
+      "PackagePath": "staticwebassets\\Attachment\\765b76b1-edad-4ecd-a179-d6c6c6087481.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\77b7f430-4fdd-48d6-8d83-07d4c69a4662.png",
+      "PackagePath": "staticwebassets\\Attachment\\77b7f430-4fdd-48d6-8d83-07d4c69a4662.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\79ee94ca-5c07-4a7b-baad-2148d11db755.png",
+      "PackagePath": "staticwebassets\\Attachment\\79ee94ca-5c07-4a7b-baad-2148d11db755.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\7e010122-b90e-42df-b3c8-fe4b4988ee37.png",
+      "PackagePath": "staticwebassets\\Attachment\\7e010122-b90e-42df-b3c8-fe4b4988ee37.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\861c71fa-9459-4d8f-8b96-d32eb8f4d7a8.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\861c71fa-9459-4d8f-8b96-d32eb8f4d7a8.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\892da45b-2b77-4695-9d2a-6421326b82da.png",
+      "PackagePath": "staticwebassets\\Attachment\\892da45b-2b77-4695-9d2a-6421326b82da.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\948cccc8-8ad5-42a2-97f6-1705e2f04e8e.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\948cccc8-8ad5-42a2-97f6-1705e2f04e8e.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\966eff11-c1d7-4389-a881-c86fe712f42f.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\966eff11-c1d7-4389-a881-c86fe712f42f.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\9b016422-04ec-49d3-b776-293ee9b04007.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\9b016422-04ec-49d3-b776-293ee9b04007.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\9b63ebd4-6bcc-4ff1-a053-aa12ce906b95.png",
+      "PackagePath": "staticwebassets\\Attachment\\9b63ebd4-6bcc-4ff1-a053-aa12ce906b95.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\9e38f828-347d-4959-a339-e0e9f69362b6.png",
+      "PackagePath": "staticwebassets\\Attachment\\9e38f828-347d-4959-a339-e0e9f69362b6.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\9f7735f2-813c-49b1-8090-65a1f399efb7.png",
+      "PackagePath": "staticwebassets\\Attachment\\9f7735f2-813c-49b1-8090-65a1f399efb7.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\B-01-Maib Branch\\39b2cace-497f-4c0b-80a6-4d1671c96650.png",
+      "PackagePath": "staticwebassets\\Attachment\\B-01-Maib Branch\\39b2cace-497f-4c0b-80a6-4d1671c96650.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\a0a81160-2782-4ffd-b89f-b1574da1a07d.png",
+      "PackagePath": "staticwebassets\\Attachment\\a0a81160-2782-4ffd-b89f-b1574da1a07d.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\a2fc24ea-6de8-403b-ab28-609ef9ca0edd.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\a2fc24ea-6de8-403b-ab28-609ef9ca0edd.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\a43ef569-c587-4540-949f-2e2708b923bd.png",
+      "PackagePath": "staticwebassets\\Attachment\\a43ef569-c587-4540-949f-2e2708b923bd.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\a6afae05-dde4-4f08-afc3-9a5f62e841fd.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\a6afae05-dde4-4f08-afc3-9a5f62e841fd.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\b0c19230-aada-49b4-aeb5-5014f98f7ec7.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\b0c19230-aada-49b4-aeb5-5014f98f7ec7.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\b2d77537-0780-4bcd-a95e-68f432d99704.pdf",
+      "PackagePath": "staticwebassets\\Attachment\\b2d77537-0780-4bcd-a95e-68f432d99704.pdf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\b691afbb-d83b-46ac-b5bf-5cde4d56738b.png",
+      "PackagePath": "staticwebassets\\Attachment\\b691afbb-d83b-46ac-b5bf-5cde4d56738b.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\bbb40a62-4431-4989-8a3e-35d0eb5a2bf3.png",
+      "PackagePath": "staticwebassets\\Attachment\\bbb40a62-4431-4989-8a3e-35d0eb5a2bf3.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\c17ea94a-e732-4469-9697-354168d426e5.png",
+      "PackagePath": "staticwebassets\\Attachment\\c17ea94a-e732-4469-9697-354168d426e5.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\cc7d92d5-3489-4b7d-9bcb-b840e4664e96.png",
+      "PackagePath": "staticwebassets\\Attachment\\cc7d92d5-3489-4b7d-9bcb-b840e4664e96.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\ce155f02-7964-46fb-a021-77eab827ca40.png",
+      "PackagePath": "staticwebassets\\Attachment\\ce155f02-7964-46fb-a021-77eab827ca40.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\d2d1efe5-0054-476d-81fb-a8697e822eba.png",
+      "PackagePath": "staticwebassets\\Attachment\\d2d1efe5-0054-476d-81fb-a8697e822eba.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\e832ef3f-d6c7-42f0-aa33-af56585800a6.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\e832ef3f-d6c7-42f0-aa33-af56585800a6.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\eecdde38-a6e5-4f78-90e0-ff881014f670.png",
+      "PackagePath": "staticwebassets\\Attachment\\eecdde38-a6e5-4f78-90e0-ff881014f670.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\f99cf8fb-a418-4867-b00c-6212e00723b4.png",
+      "PackagePath": "staticwebassets\\Attachment\\f99cf8fb-a418-4867-b00c-6212e00723b4.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Attachment\\paper-dashboard.css",
+      "PackagePath": "staticwebassets\\Attachment\\paper-dashboard.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\AmericanExpress.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\AmericanExpress.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\ApplePay.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\ApplePay.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\Discover.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\Discover.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\Mada.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\Mada.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\MasterCard.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\MasterCard.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\PayPal.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\PayPal.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\StcPay.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\StcPay.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\Visa.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\Visa.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\PaymentOptions\\WesternUnion.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\WesternUnion.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.xsc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.xsd",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.xss",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheet.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheetReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BakanceSheetReport\\BalanceSheetReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.xsc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.xsd",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.xss",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheet.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheetReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\BalanceSheetReport\\BalanceSheetReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.xsc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.xsd",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.xss",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\IncomeStatement\\IncomeStatement.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.xsc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.xsd",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.xss",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceAccountReport\\TrailBalanceAccount.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.xsc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.xsd",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.xss",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceDetailReport\\TrailBalanceDetailReport.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.xsc",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.xsd",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.xss",
+      "PackagePath": "staticwebassets\\Reports\\AccountFinanceReport\\TrailBalanceReport\\TrailBalance.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\BalanceReports\\CustomerBalanceReport.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\BalanceReports\\CustomerBalanceReport.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\BalanceReports\\CustomerBalanceReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\BalanceReports\\CustomerBalanceReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\BalanceReports\\CustomerBalanceReport.xsc",
+      "PackagePath": "staticwebassets\\Reports\\BalanceReports\\CustomerBalanceReport.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\BalanceReports\\CustomerBalanceReport.xsd",
+      "PackagePath": "staticwebassets\\Reports\\BalanceReports\\CustomerBalanceReport.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\BalanceReports\\CustomerBalanceReport.xss",
+      "PackagePath": "staticwebassets\\Reports\\BalanceReports\\CustomerBalanceReport.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodReceive.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodReceive.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodReceive.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodReceive.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodReceive.xsc",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodReceive.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodReceive.xsd",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodReceive.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodReceive.xss",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodReceive.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodRecieveTemp1.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodRecieveTemp1.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodRecieveTemp1.xsc",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodRecieveTemp1.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodRecieveTemp1.xsd",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodRecieveTemp1.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\GoodRecieveTemp1.xss",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\GoodRecieveTemp1.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\GoodsRecievs\\Goodrecievetemp1.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\GoodsRecievs\\Goodrecievetemp1.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.xsc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.xsd",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.xss",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ComparisonReport\\ComparisonReport.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ComparisonReport\\ComprisonReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ComparisonReport\\ComprisonReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.cs",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.xsc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.xsd",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.xss",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductInventoryReport\\ProductInventoryReport.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.xsc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.xsd",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.xss",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedger.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedgerReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\ProductLedgerReprot\\ProductLedgerReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\StockReport\\Stock.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\StockReport\\Stock.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\StockReport\\Stock.xsc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\StockReport\\Stock.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\StockReport\\Stock.xsd",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\StockReport\\Stock.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\StockReport\\Stock.xss",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\StockReport\\Stock.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\StockReport\\StockReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\StockReport\\StockReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.xsc",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.xsd",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.xss",
+      "PackagePath": "staticwebassets\\Reports\\InventoryReport\\SupplierPurchaseReport\\SupplierPurchaseReport.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedger.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedger.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedger.xsc",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedger.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedger.xsd",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedger.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedger.xss",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedger.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetail.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetail.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.xsc",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.xsd",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.xss",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedgerDetailReport\\AccountLedgerDetails.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\AccountLedgerReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\AccountLedgerReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.xsc",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.xsd",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.xss",
+      "PackagePath": "staticwebassets\\Reports\\LedgerReport\\CustomerLedger\\CustomerLedger.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\PurchaseInvoice\\PurchaseInvoice.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\PurchaseInvoice\\PurchaseInvoice.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\PurchaseInvoice\\PurchaseInvoice.cs",
+      "PackagePath": "staticwebassets\\Reports\\PurchaseInvoice\\PurchaseInvoice.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\PurchaseInvoice\\PurchaseInvoice.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\PurchaseInvoice\\PurchaseInvoice.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\PurchaseInvoice\\PurchaseInvoice.xsc",
+      "PackagePath": "staticwebassets\\Reports\\PurchaseInvoice\\PurchaseInvoice.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\PurchaseInvoice\\PurchaseInvoice.xsd",
+      "PackagePath": "staticwebassets\\Reports\\PurchaseInvoice\\PurchaseInvoice.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\PurchaseInvoice\\PurchaseInvoice.xss",
+      "PackagePath": "staticwebassets\\Reports\\PurchaseInvoice\\PurchaseInvoice.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\RepairingOrder\\RepairingOrder\\PurchaseInvoice.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\RepairingOrder\\RepairingOrder\\PurchaseInvoice.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.xsc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.xsd",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.xss",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ComparisonReport\\Comparison.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ComparisonReport\\ComparisonReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ComparisonReport\\ComparisonReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.xsc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.xsd",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.xss",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ExpenseReport\\Expense.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\ExpenseReport\\ExpenseReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\ExpenseReport\\ExpenseReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.xsc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.xsd",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.xss",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\InvoiceSerial\\InvoiceSerial.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.xsc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.xsd",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.xss",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchaseReport\\SaleInvoiceReport\\SaleInvoiceReport.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.xsc",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.xsd",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.xss",
+      "PackagePath": "staticwebassets\\Reports\\SalePurchase\\InvoiceSerial\\InvoiceSerial.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SaleReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\SaleReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\SupplierPaymentReciept\\SupplierPaymentReciept.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\SupplierPaymentReciept\\SupplierPaymentReciept.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.xsc",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.xsd",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.xss",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseReport\\DayWiseReport.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.xsc",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.xsd",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.xss",
+      "PackagePath": "staticwebassets\\Reports\\TransactionReports\\DayWiseTransection\\DayWiseTransection.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\VatReport\\VatPaid.Designer.cs",
+      "PackagePath": "staticwebassets\\Reports\\VatReport\\VatPaid.Designer.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\VatReport\\VatPaid.cs",
+      "PackagePath": "staticwebassets\\Reports\\VatReport\\VatPaid.cs"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\VatReport\\VatPaid.xsc",
+      "PackagePath": "staticwebassets\\Reports\\VatReport\\VatPaid.xsc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\VatReport\\VatPaid.xsd",
+      "PackagePath": "staticwebassets\\Reports\\VatReport\\VatPaid.xsd"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\VatReport\\VatPaid.xss",
+      "PackagePath": "staticwebassets\\Reports\\VatReport\\VatPaid.xss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Reports\\VatReport\\VatPayableReport.rdlc",
+      "PackagePath": "staticwebassets\\Reports\\VatReport\\VatPayableReport.rdlc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\Sample.pdf",
+      "PackagePath": "staticwebassets\\Rotativa\\Sample.pdf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\image.jpg",
+      "PackagePath": "staticwebassets\\Rotativa\\image.jpg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\image.png",
+      "PackagePath": "staticwebassets\\Rotativa\\image.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\testing.html",
+      "PackagePath": "staticwebassets\\Rotativa\\testing.html"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\testing.jpeg",
+      "PackagePath": "staticwebassets\\Rotativa\\testing.jpeg"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\testing.pdf",
+      "PackagePath": "staticwebassets\\Rotativa\\testing.pdf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\testing1.pdf",
+      "PackagePath": "staticwebassets\\Rotativa\\testing1.pdf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllbegin.inc",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllbegin.inc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllend.inc",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllend.inc"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\image.h",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\image.h"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\pdf.h",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\pdf.h"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\lib\\wkhtmltox.lib",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\lib\\wkhtmltox.lib"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\uninstall.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\uninstall.exe"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Category.csv",
+      "PackagePath": "staticwebassets\\Template\\Category.csv"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Customer Template.xlsx",
+      "PackagePath": "staticwebassets\\Template\\Customer Template.xlsx"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Inventory Count Template.xlsx",
+      "PackagePath": "staticwebassets\\Template\\Inventory Count Template.xlsx"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\ReparingOrderTemplate.xlsx",
+      "PackagePath": "staticwebassets\\Template\\ReparingOrderTemplate.xlsx"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Stock In Template.xlsx",
+      "PackagePath": "staticwebassets\\Template\\Stock In Template.xlsx"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Stock Template.csv",
+      "PackagePath": "staticwebassets\\Template\\Stock Template.csv"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Supplier Template.xlsx",
+      "PackagePath": "staticwebassets\\Template\\Supplier Template.xlsx"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Template.csv",
+      "PackagePath": "staticwebassets\\Template\\Template.csv"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\Template\\Template.xlsx",
+      "PackagePath": "staticwebassets\\Template\\Template.xlsx"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\Custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Custom.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\component.css",
+      "PackagePath": "staticwebassets\\assets\\css\\component.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\component.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\component.css.map"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\component.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\component.min.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\landscape.css",
+      "PackagePath": "staticwebassets\\assets\\css\\landscape.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\paper-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\paper-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\css\\paper-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Italic.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\element-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\element-icons.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\element-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\element-icons.woff"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\simpbdo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simpbdo.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\fonts\\simpo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simpo.ttf"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\AU.png",
+      "PackagePath": "staticwebassets\\assets\\img\\AU.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\BR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\BR.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\DE.png",
+      "PackagePath": "staticwebassets\\assets\\img\\DE.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\GB.png",
+      "PackagePath": "staticwebassets\\assets\\img\\GB.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\RO.png",
+      "PackagePath": "staticwebassets\\assets\\img\\RO.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\US.png",
+      "PackagePath": "staticwebassets\\assets\\img\\US.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\a3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\a3.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\agenda.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agenda.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\cloud-computing.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cloud-computing.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\noblelogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\noblelogo.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\img\\noblelogowithicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\noblelogowithicon.png"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\paper-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\paper-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\paper-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-selectpicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-selectpicker.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery-jvectormap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-jvectormap.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery.bootstrap-wizard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.bootstrap-wizard.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\moment.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\js\\plugins\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_animated-buttons.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_badges.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_example-pages.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_example-pages.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_images.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_media-queries.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_media-queries.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_modals.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_pills.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_pills.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_popups.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_popups.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_sections.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_sections.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-background.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-collapse.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-collapse.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-contributions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-contributions.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-info-area.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-info-area.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-lock.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-lock.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-pricing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-pricing.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-profile.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-profile.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-signup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-signup.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats-mini.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-stats-mini.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-subcategories.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-subcategories.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-tasks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-tasks.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-testimonials.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-testimonials.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_modals.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_tags.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_tags.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes-extend.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_wizard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_wizard.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-select.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-switch.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-table.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-card-wizard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-card-wizard.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datatables.net.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datatables.net.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datetimepicker.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datetimepicker.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-fullcalendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-fullcalendar.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jasny-fileupload.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jasny-fileupload.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jquery.jvectormap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jquery.jvectormap.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-nouislider.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-sweetalert2.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-sweetalert2.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-tagsinput.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-tagsinput.scss"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\css\\Loader.css",
+      "PackagePath": "staticwebassets\\css\\Loader.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\css\\vue-multiselect.min.css",
+      "PackagePath": "staticwebassets\\css\\vue-multiselect.min.css"
+    },
+    {
+      "Id": "C:\\ERPFORSaqib\\Noble.Api\\wwwroot\\images\\fav.png",
+      "PackagePath": "staticwebassets\\images\\fav.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Noble.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Noble.Api.props",
+      "PackagePath": "build\\Noble.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Noble.Api.props",
+      "PackagePath": "buildMultiTargeting\\Noble.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Noble.Api.props",
+      "PackagePath": "buildTransitive\\Noble.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

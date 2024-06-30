@@ -1,0 +1,15 @@
+C:\ERPFORSaqib\Focus.Domain\bin\Debug\net6.0\Focus.Domain.deps.json
+C:\ERPFORSaqib\Focus.Domain\bin\Debug\net6.0\Focus.Domain.runtimeconfig.json
+C:\ERPFORSaqib\Focus.Domain\bin\Debug\net6.0\Focus.Domain.dll
+C:\ERPFORSaqib\Focus.Domain\bin\Debug\net6.0\Focus.Domain.pdb
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.csproj.AssemblyReference.cache
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.AssemblyInfoInputs.cache
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.AssemblyInfo.cs
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.csproj.CoreCompileInputs.cache
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.sourcelink.json
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.dll
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\refint\Focus.Domain.dll
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.pdb
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\Focus.Domain.genruntimeconfig.cache
+C:\ERPFORSaqib\Focus.Domain\obj\Debug\net6.0\ref\Focus.Domain.dll

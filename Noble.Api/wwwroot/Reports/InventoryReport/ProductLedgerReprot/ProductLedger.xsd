@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ProductLedger" targetNamespace="http://tempuri.org/ProductLedger.xsd" xmlns:mstns="http://tempuri.org/ProductLedger.xsd" xmlns="http://tempuri.org/ProductLedger.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ProductLedger" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="ProductLedger" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ProductLedger">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ProductLedger" msprop:Generator_RowEvHandlerName="ProductLedgerRowChangeEventHandler" msprop:Generator_RowDeletedName="ProductLedgerRowDeleted" msprop:Generator_RowDeletingName="ProductLedgerRowDeleting" msprop:Generator_RowEvArgName="ProductLedgerRowChangeEvent" msprop:Generator_TablePropName="_ProductLedger" msprop:Generator_RowChangedName="ProductLedgerRowChanged" msprop:Generator_UserTableName="ProductLedger" msprop:Generator_RowChangingName="ProductLedgerRowChanging" msprop:Generator_RowClassName="ProductLedgerRow" msprop:Generator_TableClassName="ProductLedgerDataTable" msprop:Generator_TableVarName="tableProductLedger">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocumentNumber" msprop:Generator_ColumnPropNameInTable="DocumentNumberColumn" msprop:Generator_ColumnPropNameInRow="DocumentNumber" msprop:Generator_UserColumnName="DocumentNumber" msprop:Generator_ColumnVarNameInTable="columnDocumentNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_UserColumnName="Date" msprop:Generator_ColumnVarNameInTable="columnDate" type="xs:string" minOccurs="0" />
+              <xs:element name="TransectionType" msprop:Generator_ColumnPropNameInTable="TransectionTypeColumn" msprop:Generator_ColumnPropNameInRow="TransectionType" msprop:Generator_UserColumnName="TransectionType" msprop:Generator_ColumnVarNameInTable="columnTransectionType" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit" msprop:Generator_ColumnPropNameInTable="DebitColumn" msprop:Generator_ColumnPropNameInRow="Debit" msprop:Generator_UserColumnName="Debit" msprop:Generator_ColumnVarNameInTable="columnDebit" type="xs:string" minOccurs="0" />
+              <xs:element name="Credit" msprop:Generator_ColumnPropNameInTable="CreditColumn" msprop:Generator_ColumnPropNameInRow="Credit" msprop:Generator_UserColumnName="Credit" msprop:Generator_ColumnVarNameInTable="columnCredit" type="xs:string" minOccurs="0" />
+              <xs:element name="Id" msprop:Generator_UserColumnName="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" type="xs:string" minOccurs="0" />
+              <xs:element name="NetTotal" msprop:Generator_ColumnPropNameInRow="NetTotal" msprop:Generator_ColumnPropNameInTable="NetTotalColumn" msprop:Generator_ColumnVarNameInTable="columnNetTotal" msprop:Generator_UserColumnName="NetTotal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

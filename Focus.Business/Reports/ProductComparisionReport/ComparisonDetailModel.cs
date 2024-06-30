@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Focus.Business.Reports.ProductComparisionReport
+{
+    public class ComparisonDetailModel
+    {
+        public decimal Quantity { get; set; }
+        public decimal InventoryBalance { get; set; }
+        public decimal CogsBalance { get; set; }
+        public decimal SaleBalance { get; set; }
+    }
+}

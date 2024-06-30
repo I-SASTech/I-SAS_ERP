@@ -1,0 +1,31 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Noble.Api
+build_property.RootNamespace = Noble.Api
+build_property.ProjectDir = C:\ERPFORSaqib\Noble.Api\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\ERPFORSaqib\Noble.Api
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/ERPFORSaqib/Noble.Api/Views/EmployeeRegistration/PrintPos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVSZWdpc3RyYXRpb25cUHJpbnRQb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERPFORSaqib/Noble.Api/Views/Report/PrintPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFByaW50UGRmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ERPFORSaqib/Noble.Api/Views/Report/SendEmailPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFNlbmRFbWFpbFBkZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DayWiseReport" targetNamespace="http://tempuri.org/DayWiseReport.xsd" xmlns:mstns="http://tempuri.org/DayWiseReport.xsd" xmlns="http://tempuri.org/DayWiseReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DayWiseReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DayWiseReport" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DayWiseReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DayWiseReprot" msprop:Generator_RowClassName="DayWiseReprotRow" msprop:Generator_RowEvHandlerName="DayWiseReprotRowChangeEventHandler" msprop:Generator_RowDeletedName="DayWiseReprotRowDeleted" msprop:Generator_RowDeletingName="DayWiseReprotRowDeleting" msprop:Generator_RowEvArgName="DayWiseReprotRowChangeEvent" msprop:Generator_TablePropName="DayWiseReprot" msprop:Generator_RowChangedName="DayWiseReprotRowChanged" msprop:Generator_UserTableName="DayWiseReprot" msprop:Generator_RowChangingName="DayWiseReprotRowChanging" msprop:Generator_TableClassName="DayWiseReprotDataTable" msprop:Generator_TableVarName="tableDayWiseReprot">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StartTime" msprop:Generator_UserColumnName="StartTime" msprop:Generator_ColumnPropNameInTable="StartTimeColumn" msprop:Generator_ColumnPropNameInRow="StartTime" msprop:Generator_ColumnVarNameInTable="columnStartTime" type="xs:string" minOccurs="0" />
+              <xs:element name="Counter" msprop:Generator_UserColumnName="Counter" msprop:Generator_ColumnPropNameInTable="CounterColumn" msprop:Generator_ColumnPropNameInRow="Counter" msprop:Generator_ColumnVarNameInTable="columnCounter" type="xs:string" minOccurs="0" />
+              <xs:element name="OpeningCash" msprop:Generator_UserColumnName="OpeningCash" msprop:Generator_ColumnPropNameInTable="OpeningCashColumn" msprop:Generator_ColumnPropNameInRow="OpeningCash" msprop:Generator_ColumnVarNameInTable="columnOpeningCash" type="xs:string" minOccurs="0" />
+              <xs:element name="CashinHand" msprop:Generator_UserColumnName="CashinHand" msprop:Generator_ColumnPropNameInTable="CashinHandColumn" msprop:Generator_ColumnPropNameInRow="CashinHand" msprop:Generator_ColumnVarNameInTable="columnCashinHand" type="xs:string" minOccurs="0" />
+              <xs:element name="Expense" msprop:Generator_UserColumnName="Expense" msprop:Generator_ColumnPropNameInTable="ExpenseColumn" msprop:Generator_ColumnPropNameInRow="Expense" msprop:Generator_ColumnVarNameInTable="columnExpense" type="xs:string" minOccurs="0" />
+              <xs:element name="CarryCash" msprop:Generator_UserColumnName="CarryCash" msprop:Generator_ColumnPropNameInTable="CarryCashColumn" msprop:Generator_ColumnPropNameInRow="CarryCash" msprop:Generator_ColumnVarNameInTable="columnCarryCash" type="xs:string" minOccurs="0" />
+              <xs:element name="EndTime" msprop:Generator_UserColumnName="EndTime" msprop:Generator_ColumnPropNameInTable="EndTimeColumn" msprop:Generator_ColumnPropNameInRow="EndTime" msprop:Generator_ColumnVarNameInTable="columnEndTime" type="xs:string" minOccurs="0" />
+              <xs:element name="AmountRecieve" msprop:Generator_UserColumnName="AmountRecieve" msprop:Generator_ColumnPropNameInTable="AmountRecieveColumn" msprop:Generator_ColumnPropNameInRow="AmountRecieve" msprop:Generator_ColumnVarNameInTable="columnAmountRecieve" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

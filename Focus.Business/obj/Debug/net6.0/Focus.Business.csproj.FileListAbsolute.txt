@@ -1,0 +1,16 @@
+C:\ERPFORSaqib\Focus.Business\bin\Debug\net6.0\Focus.Business.deps.json
+C:\ERPFORSaqib\Focus.Business\bin\Debug\net6.0\Focus.Business.dll
+C:\ERPFORSaqib\Focus.Business\bin\Debug\net6.0\Focus.Business.pdb
+C:\ERPFORSaqib\Focus.Business\bin\Debug\net6.0\Focus.Domain.dll
+C:\ERPFORSaqib\Focus.Business\bin\Debug\net6.0\Focus.Domain.pdb
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.csproj.AssemblyReference.cache
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.AssemblyInfoInputs.cache
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.AssemblyInfo.cs
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.csproj.CoreCompileInputs.cache
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.sourcelink.json
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Bu.1E536792.Up2Date
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.dll
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\refint\Focus.Business.dll
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\Focus.Business.pdb
+C:\ERPFORSaqib\Focus.Business\obj\Debug\net6.0\ref\Focus.Business.dll

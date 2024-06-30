@@ -1,0 +1,79 @@
+<template>
+    <div>
+        <multiselect v-model="DisplayValue" :options="options" :multiple="false" track-by="name" :clear-on-select="false" :show-labels="false" label="name" v-bind:placeholder="$t('importExport.Select')" :preselect-first="true">
+           
+        </multiselect>
+    </div>
+</template>
+<script>
+    import Multiselect from 'vue-multiselect'
+    import clickMixin from '@/Mixins/clickMixin'
+    export default {
+        name: 'CountryDropdown',
+        props: ["modelValue","formName"],
+        mixins: [clickMixin],
+        components: {
+            Multiselect,
+            
+        },
+        data: function () {
+            return {
+                options: [],
+                value: '',
+               id:'',
+                show: false,
+                type: '',
+              
+                render: 0
+            }
+        },
+        validations() {
+          
+        },
+        methods: {
+            getData: function () {
+                var root = this;
+                var token = '';
+                if (token == '') {
+                    token = localStorage.getItem('token');
+                }
+                root.options = [];
+                this.$https.get('/ImportExport/ImportExportTypeList?isDropdown=true' + '&importExportTypes=' + this.formName, { headers: { "Authorization": `Bearer ${token}` } }).then(function (response) {
+
+                    if (response.data != null) {
+
+                        response.data.results.forEach(function (result) {
+                            root.options.push({
+                                id: result.id,
+                                name: (root.$i18n.locale == 'en' || root.isLeftToRight()) ? (result.name != '' ? result.name : result.nameArabic) : (result.nameArabic != '' ? result.nameArabic : result.name),
+                            })
+                        })
+                    }
+                }).then(function () {
+                    root.value = root.options.find(function (x) {
+                        return x.id == root.modelValue;
+                    })
+                });
+            },        },
+        computed: {
+            DisplayValue: {
+                get: function () {
+
+                    if (this.value != "" || this.value != undefined) {
+                        
+                        return this.value;
+                    }
+                    return this.value;
+                },
+                set: function (value) {
+                    
+                    this.value = value;
+                    this.$emit('update:modelValue', value.id);
+                }
+            }
+        },
+        mounted: function () {
+            this.getData();
+        },
+    }
+</script>

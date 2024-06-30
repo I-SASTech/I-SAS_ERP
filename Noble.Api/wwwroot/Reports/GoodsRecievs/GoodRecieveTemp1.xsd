@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GoodRecieveTemp1" targetNamespace="http://tempuri.org/GoodRecieveTemp1.xsd" xmlns:mstns="http://tempuri.org/GoodRecieveTemp1.xsd" xmlns="http://tempuri.org/GoodRecieveTemp1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GoodRecieveTemp1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="GoodRecieveTemp1" msprop:Generator_DataSetName="GoodRecieveTemp1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="GoodReceiveTemp1" msprop:Generator_RowEvHandlerName="GoodReceiveTemp1RowChangeEventHandler" msprop:Generator_RowDeletedName="GoodReceiveTemp1RowDeleted" msprop:Generator_RowDeletingName="GoodReceiveTemp1RowDeleting" msprop:Generator_RowEvArgName="GoodReceiveTemp1RowChangeEvent" msprop:Generator_TablePropName="GoodReceiveTemp1" msprop:Generator_RowChangedName="GoodReceiveTemp1RowChanged" msprop:Generator_RowChangingName="GoodReceiveTemp1RowChanging" msprop:Generator_TableClassName="GoodReceiveTemp1DataTable" msprop:Generator_RowClassName="GoodReceiveTemp1Row" msprop:Generator_TableVarName="tableGoodReceiveTemp1" msprop:Generator_UserTableName="GoodReceiveTemp1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="رقمالموديل" msprop:Generator_ColumnPropNameInRow="رقمالموديل" msprop:Generator_ColumnPropNameInTable="رقمالموديلColumn" msprop:Generator_ColumnVarNameInTable="columnرقمالموديل" msprop:Generator_UserColumnName="رقمالموديل" type="xs:string" minOccurs="0" />
+              <xs:element name="اسمالصنف" msprop:Generator_ColumnPropNameInRow="اسمالصنف" msprop:Generator_ColumnPropNameInTable="اسمالصنفColumn" msprop:Generator_ColumnVarNameInTable="columnاسمالصنف" msprop:Generator_UserColumnName="اسمالصنف" type="xs:string" minOccurs="0" />
+              <xs:element name="المجموعالإجمالي" msprop:Generator_ColumnPropNameInRow="المجموعالإجمالي" msprop:Generator_ColumnPropNameInTable="المجموعالإجماليColumn" msprop:Generator_ColumnVarNameInTable="columnالمجموعالإجمالي" msprop:Generator_UserColumnName="المجموعالإجمالي" type="xs:string" minOccurs="0" />
+              <xs:element name="الكمية" msprop:Generator_ColumnPropNameInRow="الكمية" msprop:Generator_ColumnPropNameInTable="الكميةColumn" msprop:Generator_ColumnVarNameInTable="columnالكمية" msprop:Generator_UserColumnName="الكمية" type="xs:string" minOccurs="0" />
+              <xs:element name="سعرالوحدة" msprop:Generator_ColumnPropNameInRow="سعرالوحدة" msprop:Generator_ColumnPropNameInTable="سعرالوحدةColumn" msprop:Generator_ColumnVarNameInTable="columnسعرالوحدة" msprop:Generator_UserColumnName="سعرالوحدة" type="xs:string" minOccurs="0" />
+              <xs:element name="الاجمالي" msprop:Generator_ColumnPropNameInRow="الاجمالي" msprop:Generator_ColumnPropNameInTable="الاجماليColumn" msprop:Generator_ColumnVarNameInTable="columnالاجمالي" msprop:Generator_UserColumnName="الاجمالي" type="xs:string" minOccurs="0" />
+              <xs:element name="التعديل" msprop:Generator_ColumnPropNameInRow="التعديل" msprop:Generator_ColumnPropNameInTable="التعديلColumn" msprop:Generator_ColumnVarNameInTable="columnالتعديل" msprop:Generator_UserColumnName="التعديل" type="xs:string" minOccurs="0" />
+              <xs:element name="الضريية" msprop:Generator_ColumnPropNameInRow="الضريية" msprop:Generator_ColumnPropNameInTable="الضرييةColumn" msprop:Generator_ColumnVarNameInTable="columnالضريية" msprop:Generator_UserColumnName="الضريية" type="xs:string" minOccurs="0" />
+              <xs:element name="قيمةالضريبة" msprop:Generator_ColumnPropNameInRow="قيمةالضريبة" msprop:Generator_ColumnPropNameInTable="قيمةالضريبةColumn" msprop:Generator_ColumnVarNameInTable="columnقيمةالضريبة" msprop:Generator_UserColumnName="قيمةالضريبة" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,50 @@
+
+-----purchases -----
+
+  name   price  discount     vat 
+ item1   100    10           9  
+
+
+
+
+
+inventory Acccount (111000: Inventory)  100  debit 
+
+vat in purchase (other Assets) 9 debit 
+
+Discount  (426000: Discount Taken)  10 credit 
+
+
+account Payable  99  credit 
+
+     ----sale ------
+ name   price  discount     vat 
+ item1   100    10           9  
+
+cost of good sale  90 (discount not pay ) debit 
+{
+under sale account :
+ AccountId = item.Product.Category.SaleAccountId 	in case bundel account (debit )
+
+}
+inventory  credit 90 
+income Account 100 credit 
+vat payable 9 credit 
+discount  10 debit (in expense )
+
+(sale in 99)or (Account Receivable) cash or bank 99 debit
+
+
+------------stock  adjustment
+
+In 
+Purchse Adjusment Payable credit 
+ Inventory Adjustment   debit 
+out reverse 
+
+
+ 
+
+
+
+

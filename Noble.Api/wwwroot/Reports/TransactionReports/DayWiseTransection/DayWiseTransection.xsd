@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DayWiseTransection" targetNamespace="http://tempuri.org/DayWiseTransection.xsd" xmlns:mstns="http://tempuri.org/DayWiseTransection.xsd" xmlns="http://tempuri.org/DayWiseTransection.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DayWiseTransection" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DayWiseTransection" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DayWiseTransection">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DayWiseTransection" msprop:Generator_RowClassName="DayWiseTransectionRow" msprop:Generator_RowEvHandlerName="DayWiseTransectionRowChangeEventHandler" msprop:Generator_RowDeletedName="DayWiseTransectionRowDeleted" msprop:Generator_RowDeletingName="DayWiseTransectionRowDeleting" msprop:Generator_RowEvArgName="DayWiseTransectionRowChangeEvent" msprop:Generator_TablePropName="_DayWiseTransection" msprop:Generator_RowChangedName="DayWiseTransectionRowChanged" msprop:Generator_UserTableName="DayWiseTransection" msprop:Generator_RowChangingName="DayWiseTransectionRowChanging" msprop:Generator_TableClassName="DayWiseTransectionDataTable" msprop:Generator_TableVarName="tableDayWiseTransection">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_UserColumnName="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnVarNameInTable="columnDate" type="xs:string" minOccurs="0" />
+              <xs:element name="AccountType" msprop:Generator_UserColumnName="AccountType" msprop:Generator_ColumnPropNameInTable="AccountTypeColumn" msprop:Generator_ColumnPropNameInRow="AccountType" msprop:Generator_ColumnVarNameInTable="columnAccountType" type="xs:string" minOccurs="0" />
+              <xs:element name="CostCenter" msprop:Generator_UserColumnName="CostCenter" msprop:Generator_ColumnPropNameInTable="CostCenterColumn" msprop:Generator_ColumnPropNameInRow="CostCenter" msprop:Generator_ColumnVarNameInTable="columnCostCenter" type="xs:string" minOccurs="0" />
+              <xs:element name="Account" msprop:Generator_UserColumnName="Account" msprop:Generator_ColumnPropNameInTable="AccountColumn" msprop:Generator_ColumnPropNameInRow="Account" msprop:Generator_ColumnVarNameInTable="columnAccount" type="xs:string" minOccurs="0" />
+              <xs:element name="Document" msprop:Generator_UserColumnName="Document" msprop:Generator_ColumnPropNameInTable="DocumentColumn" msprop:Generator_ColumnPropNameInRow="Document" msprop:Generator_ColumnVarNameInTable="columnDocument" type="xs:string" minOccurs="0" />
+              <xs:element name="TransectionType" msprop:Generator_UserColumnName="TransectionType" msprop:Generator_ColumnPropNameInTable="TransectionTypeColumn" msprop:Generator_ColumnPropNameInRow="TransectionType" msprop:Generator_ColumnVarNameInTable="columnTransectionType" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit" msprop:Generator_UserColumnName="Debit" msprop:Generator_ColumnPropNameInTable="DebitColumn" msprop:Generator_ColumnPropNameInRow="Debit" msprop:Generator_ColumnVarNameInTable="columnDebit" type="xs:string" minOccurs="0" />
+              <xs:element name="Credit" msprop:Generator_UserColumnName="Credit" msprop:Generator_ColumnPropNameInTable="CreditColumn" msprop:Generator_ColumnPropNameInRow="Credit" msprop:Generator_ColumnVarNameInTable="columnCredit" type="xs:string" minOccurs="0" />
+              <xs:element name="header" msprop:Generator_ColumnPropNameInRow="header" msprop:Generator_ColumnPropNameInTable="headerColumn" msprop:Generator_ColumnVarNameInTable="columnheader" msprop:Generator_UserColumnName="header" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_UserColumnName="Total" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
